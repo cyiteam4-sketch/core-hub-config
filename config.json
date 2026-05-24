@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "1.0.0",
-  "publishedAt": "2026-05-24T08:46:35.643Z",
+  "publishedAt": "2026-05-24T08:48:20.020Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Gamesjnmfg",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "1.0.0",
-      "date": "2026-05-24T08:46:35.219Z",
+      "date": "2026-05-24T08:48:19.554Z",
       "changes": [
         "Remote config system added."
       ]
