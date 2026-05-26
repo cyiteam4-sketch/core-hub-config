@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "1.0.0",
-  "publishedAt": "2026-05-26T10:04:10.308Z",
+  "publishedAt": "2026-05-26T10:04:36.571Z",
   "announcement": {
     "enabled": true,
-    "title": "Test",
-    "message": "Remote updates are now enabled. TEST"
+    "title": "Welcome! work",
+    "message": "Remote updates are now enabled. TEST work bro"
   },
   "maintenance": {
     "enabled": false,
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "1.0.0",
-      "date": "2026-05-26T10:04:09.828Z",
+      "date": "2026-05-26T10:04:36.107Z",
       "changes": [
         "Remote config system added."
       ]
