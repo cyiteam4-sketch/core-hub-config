@@ -1,23 +1,20 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-27T09:01:08.910Z",
-
+  "publishedAt": "2026-05-27T09:27:54.192Z",
   "announcement": {
     "enabled": true,
-    "title": "Welcome to Core Hub",
+    "title": "Welcome to Core Hub IM SO HAPPY RN CHAT",
     "message": "Remote games are now live."
   },
-
   "maintenance": {
     "enabled": false,
     "message": ""
   },
-
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-27T09:01:08.910Z",
+      "date": "2026-05-27T09:27:53.806Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -25,7 +22,6 @@
       ]
     }
   ],
-
   "games": [
     {
       "name": "🐵 Monkey Mart",
@@ -34,7 +30,6 @@
       "status": "down",
       "message": "Temporarily disabled"
     },
-
     {
       "name": "🏹 Ragdoll Archers",
       "category": "🎯 Action",
@@ -42,7 +37,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🌀 Geo Dash",
       "category": "🎯 Action",
@@ -50,7 +44,6 @@
       "status": "online",
       "message": "Paid Version Soon"
     },
-
     {
       "name": "🏍️ Moto X3M",
       "category": "🏁 Racing",
@@ -58,7 +51,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🏎️ Poly Track",
       "category": "🏁 Racing",
@@ -66,7 +58,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🍳 Infinite Chef",
       "category": "🎮 Casual",
@@ -74,7 +65,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🧩 Block Blast",
       "category": "🧩 Puzzle",
@@ -82,7 +72,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "⛏️ Eaglercraft",
       "category": "🧱 Sandbox",
@@ -90,7 +79,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "📦 Minecraft Case Sim",
       "category": "🧱 Sandbox",
@@ -98,7 +86,6 @@
       "status": "online",
       "message": "New"
     },
-
     {
       "name": "🚗 Drift Boss",
       "category": "🏁 Racing",
@@ -106,7 +93,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "❄️ SnowRider",
       "category": "🏁 Racing",
@@ -114,7 +100,6 @@
       "status": "testing",
       "message": "Getting fixed"
     },
-
     {
       "name": "🏈 Retro Bowl",
       "category": "🏆 Sports",
@@ -122,7 +107,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🚙 Drive Mad",
       "category": "🏁 Racing",
@@ -130,7 +114,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🔪 Slice Master",
       "category": "🎮 Casual",
@@ -138,7 +121,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🍪 Cookie Clicker",
       "category": "🎮 Casual",
@@ -146,7 +128,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🟢 Slope",
       "category": "🕹️ Arcade",
@@ -154,7 +135,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🦖 Chrome Dino",
       "category": "🕹️ Arcade",
@@ -162,7 +142,6 @@
       "status": "online",
       "message": "New"
     },
-
     {
       "name": "👶 Bitlife",
       "category": "🎮 Casual",
@@ -170,7 +149,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🟦 Paper.io",
       "category": "🎮 Casual",
@@ -178,7 +156,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🐦 Flappy Bird",
       "category": "🎮 Casual",
@@ -186,7 +163,6 @@
       "status": "online",
       "message": "Working"
     },
-
     {
       "name": "🌍 The World's Hardest Game",
       "category": "🎮 Casual",
@@ -194,7 +170,6 @@
       "status": "down",
       "message": "Temporarily disabled"
     },
-
     {
       "name": "🧪 Sandspiel",
       "category": "🧱 Sandbox",
