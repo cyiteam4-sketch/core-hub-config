@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-27T09:45:04.079Z",
+  "publishedAt": "2026-05-27T09:48:45.650Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-27T09:45:03.554Z",
+      "date": "2026-05-27T09:48:45.176Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -50,7 +50,7 @@
       "name": "🏍️ Moto X3M",
       "category": "🏁 Racing",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/motox3m/index.html",
-      "status": "maintenance",
+      "status": "down",
       "message": "Working"
     },
     {
