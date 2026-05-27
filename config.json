@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-27T20:23:16.352Z",
+  "publishedAt": "2026-05-27T20:24:16.830Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub HELL YEA",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-27T20:23:14.755Z",
+      "date": "2026-05-27T20:24:16.453Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -24,10 +24,11 @@
   ],
   "games": [
     {
+      "id": "game-1779913453279",
       "name": "🐵 Monkey Mart",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/monkeymart/file/index.html",
-      "status": "down",
+      "status": "online",
       "message": "Temporarily disabled"
     },
     {
@@ -73,7 +74,7 @@
       "name": "🧩 Block Blast",
       "category": "🧩 Puzzle",
       "url": "https://coolgamesonline.io/game/block-blast/",
-      "status": "testing",
+      "status": "online",
       "message": "Working / Buggy"
     },
     {
