@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-27T09:43:54.837Z",
+  "publishedAt": "2026-05-27T09:45:04.079Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-27T09:43:54.392Z",
+      "date": "2026-05-27T09:45:03.554Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
