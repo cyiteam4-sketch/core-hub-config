@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-28T09:45:18.442Z",
+  "publishedAt": "2026-05-28T09:46:59.367Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub 6767",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-28T09:45:18.026Z",
+      "date": "2026-05-28T09:46:58.928Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -133,7 +133,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
       "status": "down",
-      "message": "Working"
+      "message": "URL issue - fixed soon"
     },
     {
       "name": "🟢 Slope",
