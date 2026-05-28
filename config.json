@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-27T21:44:00.657Z",
+  "publishedAt": "2026-05-28T06:23:04.306Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub 6767",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-27T21:44:00.288Z",
+      "date": "2026-05-28T06:23:03.433Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -29,7 +29,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/monkeymart/file/index.html",
       "status": "online",
-      "message": "Temporarily disabled"
+      "message": "Working"
     },
     {
       "name": "🏹 Ragdoll Archers",
