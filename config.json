@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-28T09:46:59.367Z",
+  "publishedAt": "2026-05-29T23:43:40.259Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub 6767",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-28T09:46:58.928Z",
+      "date": "2026-05-29T23:43:39.884Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -182,6 +182,14 @@
       "name": "🧪 Sandspiel",
       "category": "🧱 Sandbox",
       "url": "https://sandspiel.club/",
+      "status": "online",
+      "message": "Working"
+    },
+    {
+      "id": "game-1780098167767",
+      "name": "Level Devil",
+      "category": "Strat",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/levil-devil/index.html",
       "status": "online",
       "message": "Working"
     }
