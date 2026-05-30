@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-30T07:36:39.055Z",
+  "publishedAt": "2026-05-30T07:39:34.416Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub 6767",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-30T07:36:38.674Z",
+      "date": "2026-05-30T07:39:33.902Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -190,6 +190,14 @@
       "name": "Level Devil",
       "category": "Strat",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/levil-devil/index.html",
+      "status": "online",
+      "message": "Working - New"
+    },
+    {
+      "id": "game-1780126735843",
+      "name": "Slope 3",
+      "category": "Arcade",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-3/index.html",
       "status": "online",
       "message": "Working - New"
     }
