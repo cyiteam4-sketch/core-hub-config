@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-05-30T22:55:38.162Z",
+  "publishedAt": "2026-05-30T23:03:10.410Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-05-30T22:55:37.718Z",
+      "date": "2026-05-30T23:03:09.996Z",
       "changes": [
         "Added full remote games database.",
         "Launcher now loads games from GitHub.",
@@ -124,7 +124,7 @@
       "name": "🔪 Slice Master",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slice-master/index.html",
-      "status": "down",
+      "status": "online",
       "message": "Working"
     },
     {
