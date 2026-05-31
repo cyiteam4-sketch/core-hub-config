@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.0",
-  "publishedAt": "2026-05-30T23:03:21.090Z",
+  "version": "1.0.0",
+  "publishedAt": "2026-05-31T09:22:34.333Z",
   "announcement": {
     "enabled": true,
-    "title": "Welcome to Core Hub Games!",
-    "message": "Remote games are now live."
+    "title": "Welcome to Core Hub Games",
+    "message": "We have Released!"
   },
   "maintenance": {
     "enabled": false,
@@ -13,193 +13,12 @@
   },
   "updateLog": [
     {
-      "version": "2.0.0",
-      "date": "2026-05-30T23:03:20.698Z",
+      "version": "1.0.0",
+      "date": "2026-05-31T09:22:33.724Z",
       "changes": [
-        "Added full remote games database.",
-        "Launcher now loads games from GitHub.",
-        "Added status and descriptions."
+        "Remote config system added."
       ]
     }
   ],
-  "games": [
-    {
-      "id": "game-1779913453279",
-      "name": "🐵 Monkey Mart",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/monkeymart/file/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🏹 Ragdoll Archers",
-      "category": "🎯 Action",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/ragdoll-archers/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779874161803",
-      "name": "🌀 Geo Dash",
-      "category": "🎯 Action",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/geodash1/game.html",
-      "status": "online",
-      "message": "Paid Version Soon LITE"
-    },
-    {
-      "id": "game-1779874995141",
-      "name": "🏍️ Moto X3M",
-      "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/motox3m/index.html",
-      "status": "down",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779874426345",
-      "name": "🏎️ Poly Track",
-      "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/polytrack/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🍳 Infinite Chef",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/infinite-chef/cook/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779875389404",
-      "name": "🧩 Block Blast",
-      "category": "🧩 Puzzle",
-      "url": "https://coolgamesonline.io/game/block-blast/",
-      "status": "down",
-      "message": "Working / Buggy"
-    },
-    {
-      "name": "⛏️ Eaglercraft",
-      "category": "🧱 Sandbox",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/eagler12/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "📦 Minecraft Case Sim",
-      "category": "🧱 Sandbox",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/minecraft-case-sim/index.html",
-      "status": "online",
-      "message": "New"
-    },
-    {
-      "name": "🚗 Drift Boss",
-      "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/driftboss2/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "❄️ SnowRider",
-      "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/snowrider-3d/index.html",
-      "status": "testing",
-      "message": "Getting fixed"
-    },
-    {
-      "name": "🏈 Retro Bowl",
-      "category": "🏆 Sports",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/retro-bowl/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🚙 Drive Mad",
-      "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/drive-mad/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779913934898",
-      "name": "🔪 Slice Master",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slice-master/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779961496302",
-      "name": "🍪 Cookie Clicker",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
-      "status": "down",
-      "message": "URL issue - fixed soon"
-    },
-    {
-      "name": "🟢 Slope",
-      "category": "🕹️ Arcade",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope/game.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🦖 Chrome Dino",
-      "category": "🕹️ Arcade",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/chrome-dino/index.html",
-      "status": "online",
-      "message": "New"
-    },
-    {
-      "name": "👶 Bitlife",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/bitlife/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🟦 Paper.io",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/paperio2/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🐦 Flappy Bird",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/flappybirb/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1779913712918",
-      "name": "🌍 The World's Hardest Game",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/worlds-hardest-game/index.html",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "name": "🧪 Sandspiel",
-      "category": "🧱 Sandbox",
-      "url": "https://sandspiel.club/",
-      "status": "online",
-      "message": "Working"
-    },
-    {
-      "id": "game-1780098167767",
-      "name": "Level Devil",
-      "category": "Strat",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/levil-devil/index.html",
-      "status": "online",
-      "message": "Working - New"
-    },
-    {
-      "id": "game-1780126735843",
-      "name": "Slope 3",
-      "category": "Arcade",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-3/index.html",
-      "status": "online",
-      "message": "Working - New"
-    }
-  ]
+  "games": []
 }
