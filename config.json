@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "1.0.0",
-  "publishedAt": "2026-06-01T05:58:42.355Z",
+  "publishedAt": "2026-06-01T05:59:45.110Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "1.0.0",
-      "date": "2026-06-01T05:58:41.984Z",
+      "date": "2026-06-01T05:59:44.684Z",
       "changes": [
         "Remote config system added.",
         "Games list updated."
@@ -108,8 +108,8 @@
       "name": "❄️ SnowRider",
       "category": "🏁 Racing",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/snowrider-3d/index.html",
-      "status": "testing",
-      "message": "Getting fixed"
+      "status": "online",
+      "message": "Working"
     },
     {
       "id": "retro-bowl",
@@ -141,7 +141,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
       "status": "online",
-      "message": ""
+      "message": "Working"
     },
     {
       "id": "slope",
