@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-01T06:01:12.836Z",
+  "publishedAt": "2026-06-01T21:49:07.562Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-01T06:01:12.354Z",
+      "date": "2026-06-01T21:49:07.152Z",
       "changes": [
         "Remote config system added.",
         "Games list updated."
@@ -198,6 +198,14 @@
       "url": "https://sandspiel.club/",
       "status": "online",
       "message": ""
+    },
+    {
+      "id": "game-1780350201054",
+      "name": "🌏 100 Word Wordle",
+      "category": "🎮 Casual",
+      "url": "",
+      "status": "down",
+      "message": "Coming Soon!"
     }
   ]
 }
