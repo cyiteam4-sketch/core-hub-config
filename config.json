@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-05T12:50:40.231Z",
+  "publishedAt": "2026-06-05T23:10:36.266Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-05T12:50:39.753Z",
+      "date": "2026-06-05T23:10:35.912Z",
       "changes": [
         "Remote config system added.",
         "Games list updated."
@@ -139,9 +139,9 @@
       "id": "cookie-clicker",
       "name": "🍪 Cookie Clicker",
       "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/game/index.html",
       "status": "online",
-      "message": "Working"
+      "message": "Working - fixed"
     },
     {
       "id": "slope",
