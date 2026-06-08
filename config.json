@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-05T23:10:36.266Z",
+  "publishedAt": "2026-06-08T05:57:19.229Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-05T23:10:35.912Z",
+      "date": "2026-06-08T05:57:18.783Z",
       "changes": [
         "Remote config system added.",
         "Games list updated."
@@ -230,6 +230,22 @@
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/subnew/game.html",
       "status": "online",
       "message": "Working - New!!"
+    },
+    {
+      "id": "game-1780897999876",
+      "name": "🔨  Infinite Craft",
+      "category": "🎮 Casual",
+      "url": "https://d23tskfudfp1j.cloudfront.net/games/2024/more2/nova-craft/index.html",
+      "status": "online",
+      "message": "Working - New!!"
+    },
+    {
+      "id": "game-1780898107178",
+      "name": "🔑 Password Game",
+      "category": "🎮 Casual",
+      "url": "https://turbowarp.org/881765628/embed?fps=250&clones=Infinity&offscreen&limitless&hqpen",
+      "status": "online",
+      "message": "Working!! - New!"
     }
   ]
 }
