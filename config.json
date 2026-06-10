@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-08T05:57:19.229Z",
+  "publishedAt": "2026-06-10T05:57:42.115Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-08T05:57:18.783Z",
+      "date": "2026-06-10T05:57:41.716Z",
       "changes": [
         "Remote config system added.",
         "Games list updated."
@@ -244,8 +244,32 @@
       "name": "🔑 Password Game",
       "category": "🎮 Casual",
       "url": "https://turbowarp.org/881765628/embed?fps=250&clones=Infinity&offscreen&limitless&hqpen",
+      "status": "down",
+      "message": "This Game Is Getting Fixed."
+    },
+    {
+      "id": "game-1781070797906",
+      "name": "🏎 Drift Hunters",
+      "category": "🎯 Action",
+      "url": "https://db2.duckmath.org/2024/unity/drift-hunters-2024/pre.html",
       "status": "online",
-      "message": "Working!! - New!"
+      "message": "Working - New!!"
+    },
+    {
+      "id": "game-1781070858785",
+      "name": "🔫 Gun Spin",
+      "category": "🎯 Action",
+      "url": "https://db.duckmath.org/html/gun_spin/",
+      "status": "online",
+      "message": "Working - New!"
+    },
+    {
+      "id": "game-1781070927367",
+      "name": "🌍 Worlds Hardest Game 2",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/worlds-hardest-game-2/index.html",
+      "status": "online",
+      "message": "Working - New!"
     }
   ]
 }
