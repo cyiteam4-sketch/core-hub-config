@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-10T21:45:43.782Z",
+  "publishedAt": "2026-06-11T06:25:03.887Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,10 +14,10 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-10T21:45:43.362Z",
+      "date": "2026-06-11T06:25:03.431Z",
       "changes": [
-        "Remote config system added.",
-        "Games list updated."
+        "Games added and some fixed!",
+        "Nate beat worlds hardest game!"
       ]
     }
   ],
@@ -92,7 +92,7 @@
       "category": "🧱 Sandbox",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/minecraft-case-sim/index.html",
       "status": "online",
-      "message": "New"
+      "message": "Working"
     },
     {
       "id": "drift-boss",
@@ -141,7 +141,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/game/index.html",
       "status": "online",
-      "message": "Working - fixed"
+      "message": "Working"
     },
     {
       "id": "slope",
@@ -157,7 +157,7 @@
       "category": "🕹️ Arcade",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/chrome-dino/index.html",
       "status": "online",
-      "message": "New"
+      "message": "Working"
     },
     {
       "id": "bitlife",
@@ -213,7 +213,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/balatro/index.html",
       "status": "online",
-      "message": "Working - New!"
+      "message": "Working"
     },
     {
       "id": "game-1780646431267",
@@ -221,7 +221,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/tanuki-sunset/game/index.html",
       "status": "online",
-      "message": "Working - New!!"
+      "message": "Working"
     },
     {
       "id": "game-1780663780678",
@@ -229,7 +229,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/subnew/game.html",
       "status": "online",
-      "message": "Working - New!!"
+      "message": "Working"
     },
     {
       "id": "game-1780897999876",
@@ -252,14 +252,14 @@
       "name": "🏎 Drift Hunters",
       "category": "🎯 Action",
       "url": "https://db2.duckmath.org/2024/unity/drift-hunters-2024/pre.html",
-      "status": "online",
+      "status": "down",
       "message": "Working - New!!"
     },
     {
       "id": "game-1781070858785",
       "name": "🔫 Gun Spin",
       "category": "🎯 Action",
-      "url": "https://db.duckmath.org/html/gun_spin/",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/clover-pit/index.html",
       "status": "online",
       "message": "Working - New!"
     },
@@ -268,6 +268,14 @@
       "name": "🌍 Worlds Hardest Game 2",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/worlds-hardest-game-2/index.html",
+      "status": "online",
+      "message": "Working - New!"
+    },
+    {
+      "id": "game-1781158494949",
+      "name": "🎲 Clover Pit",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/clover-pit/index.html",
       "status": "online",
       "message": "Working - New!"
     }
