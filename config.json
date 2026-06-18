@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-16T09:32:43.070Z",
+  "publishedAt": "2026-06-18T21:49:50.604Z",
   "announcement": {
     "enabled": true,
     "title": "Welcome to Core Hub Games!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-16T09:32:42.500Z",
+      "date": "2026-06-18T21:49:50.211Z",
       "changes": [
         "Games added and some fixed!",
         "Nate beat worlds hardest game!"
@@ -284,7 +284,7 @@
       "name": "👊 Street Fighter",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/sf2m/sfz3mix.html",
-      "status": "online",
+      "status": "down",
       "message": "Working - New! / Report If this game has issues."
     }
   ]
