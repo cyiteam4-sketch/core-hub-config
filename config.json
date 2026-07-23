@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-07-23T06:11:59.478Z",
+  "publishedAt": "2026-07-23T06:20:00.457Z",
   "announcement": {
     "enabled": true,
     "title": "Core Hub Games Update!!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-07-23T06:11:58.981Z",
+      "date": "2026-07-23T06:19:59.962Z",
       "changes": [
         "New Games!! and fixes",
         "Drift Hunters works",
@@ -305,6 +305,14 @@
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/ducklife4/index.html",
       "status": "online",
       "message": "Working! - Report if problems. - New!"
+    },
+    {
+      "id": "game-1784787472186",
+      "name": "🐶 Doge Miner",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/DogeMiner/index.html",
+      "status": "online",
+      "message": "Working - New! - Report if problems."
     }
   ]
 }
