@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-06-18T21:49:50.604Z",
+  "publishedAt": "2026-07-23T06:05:24.905Z",
   "announcement": {
     "enabled": true,
-    "title": "Welcome to Core Hub Games!",
-    "message": "Please Click the update button at school and home - Please Send feedback at home"
+    "title": "Core Hub Games Update!!",
+    "message": "Big Update!!! [Click the update button at school and home]\nCheck Update Logs for more info!"
   },
   "maintenance": {
     "enabled": false,
@@ -14,10 +14,13 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-06-18T21:49:50.211Z",
+      "date": "2026-07-23T06:05:24.466Z",
       "changes": [
-        "Games added and some fixed!",
-        "Nate beat worlds hardest game!"
+        "New Games!! and fixes",
+        "Drift Hunters works",
+        "Ducklife 3 and 4 added",
+        "Dogeminer added!",
+        "More!!"
       ]
     }
   ],
@@ -137,11 +140,11 @@
     },
     {
       "id": "cookie-clicker",
-      "name": "🍪 Cookie Clicker",
+      "name": "🍪 Cookie Clicker [🎁]",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/game/index.html",
       "status": "online",
-      "message": "Working"
+      "message": "Working - Most Played Game!!"
     },
     {
       "id": "slope",
@@ -237,31 +240,31 @@
       "category": "🎮 Casual",
       "url": "https://d23tskfudfp1j.cloudfront.net/games/2024/more2/nova-craft/index.html",
       "status": "online",
-      "message": "Working - New!!"
+      "message": "Working"
     },
     {
       "id": "game-1780898107178",
       "name": "🔑 Password Game",
       "category": "🎮 Casual",
       "url": "https://turbowarp.org/881765628/embed?fps=250&clones=Infinity&offscreen&limitless&hqpen",
-      "status": "down",
-      "message": "This Game Is Getting Fixed."
+      "status": "maintenance",
+      "message": "Investigating."
     },
     {
       "id": "game-1781070797906",
       "name": "🏎 Drift Hunters",
       "category": "🎯 Action",
-      "url": "https://db2.duckmath.org/2024/unity/drift-hunters-2024/pre.html",
-      "status": "down",
-      "message": "Working - New!!"
+      "url": "https://dnrweqffuwjtx.cloudfront.net/games/2023/unity3/drift-hunters/index.html",
+      "status": "online",
+      "message": "Working - Report if any problems."
     },
     {
       "id": "game-1781070858785",
       "name": "🔫 Gun Spin",
       "category": "🎯 Action",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/clover-pit/index.html",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/gunspinupdate/index.html",
       "status": "online",
-      "message": "Working - New!"
+      "message": "Working - Report if any problems."
     },
     {
       "id": "game-1781070927367",
@@ -269,7 +272,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/worlds-hardest-game-2/index.html",
       "status": "online",
-      "message": "Working - New!"
+      "message": "Working"
     },
     {
       "id": "game-1781158494949",
@@ -277,15 +280,31 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/clover-pit/index.html",
       "status": "online",
-      "message": "Working - New!"
+      "message": "Working"
     },
     {
       "id": "game-1781515095206",
       "name": "👊 Street Fighter",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/sf2m/sfz3mix.html",
-      "status": "down",
-      "message": "Working - New! / Report If this game has issues."
+      "status": "maintenance",
+      "message": "Investigating."
+    },
+    {
+      "id": "game-1784785706686",
+      "name": "🦆 Duck Life 3",
+      "category": "🎯 Action",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/ducklife3/index.html",
+      "status": "online",
+      "message": "Working! - Report if problems. - New!"
+    },
+    {
+      "id": "game-1784785773210",
+      "name": "🦆 Duck Life 4",
+      "category": "🎯 Action",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/ducklife4/index.html",
+      "status": "online",
+      "message": "Working! - Report if problems. - New!"
     }
   ]
 }
