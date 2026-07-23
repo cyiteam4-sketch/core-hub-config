@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-07-23T06:09:10.100Z",
+  "publishedAt": "2026-07-23T06:11:59.478Z",
   "announcement": {
     "enabled": true,
     "title": "Core Hub Games Update!!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-07-23T06:09:09.627Z",
+      "date": "2026-07-23T06:11:58.981Z",
       "changes": [
         "New Games!! and fixes",
         "Drift Hunters works",
