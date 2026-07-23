@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-07-23T06:05:24.905Z",
+  "publishedAt": "2026-07-23T06:09:10.100Z",
   "announcement": {
     "enabled": true,
     "title": "Core Hub Games Update!!",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-07-23T06:05:24.466Z",
+      "date": "2026-07-23T06:09:09.627Z",
       "changes": [
         "New Games!! and fixes",
         "Drift Hunters works",
@@ -47,7 +47,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/geodash1/game.html",
       "status": "online",
-      "message": "Paid Version Soon"
+      "message": "Working"
     },
     {
       "id": "moto-x3m",
