@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-07-23T06:20:00.457Z",
+  "publishedAt": "2026-08-06T09:50:12.009Z",
   "announcement": {
     "enabled": true,
-    "title": "Core Hub Games Update!!",
-    "message": "Big Update!!! [Click the update button at school and home]\nCheck Update Logs for more info!"
+    "title": "[🏀⚽] Sport Update!!",
+    "message": "A sport update! with more sport games! [click update button at school and home] I saw YT??"
   },
   "maintenance": {
     "enabled": false,
@@ -14,13 +14,10 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-07-23T06:19:59.962Z",
+      "date": "2026-08-06T09:50:11.452Z",
       "changes": [
-        "New Games!! and fixes",
-        "Drift Hunters works",
-        "Ducklife 3 and 4 added",
-        "Dogeminer added!",
-        "More!!"
+        "Basket Bros added - Basketball Random added - Soccer Random added",
+        "⚽🏀"
       ]
     }
   ],
@@ -78,7 +75,7 @@
       "name": "🧩 Block Blast",
       "category": "🎮 Puzzle",
       "url": "https://coolgamesonline.io/game/block-blast/",
-      "status": "online",
+      "status": "down",
       "message": ""
     },
     {
@@ -116,11 +113,11 @@
     },
     {
       "id": "retro-bowl",
-      "name": "🏈 Retro Bowl",
+      "name": "🏈 Retro Bowl  [👑]",
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/retro-bowl/index.html",
       "status": "online",
-      "message": ""
+      "message": "Working! - Another Top game!!"
     },
     {
       "id": "drive-mad",
@@ -200,7 +197,7 @@
       "category": "🧱 Sandbox",
       "url": "https://sandspiel.club/",
       "status": "online",
-      "message": ""
+      "message": "Should we remove this game?"
     },
     {
       "id": "game-1780350201054",
@@ -296,7 +293,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/ducklife3/index.html",
       "status": "online",
-      "message": "Working! - Report if problems. - New!"
+      "message": "Working!"
     },
     {
       "id": "game-1784785773210",
@@ -304,7 +301,7 @@
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/ducklife4/index.html",
       "status": "online",
-      "message": "Working! - Report if problems. - New!"
+      "message": "Working!"
     },
     {
       "id": "game-1784787472186",
@@ -312,7 +309,31 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/DogeMiner/index.html",
       "status": "online",
-      "message": "Working - New! - Report if problems."
+      "message": "Been Looked at."
+    },
+    {
+      "id": "game-1786009394901",
+      "name": "⚽ Soccer Random",
+      "category": "🏆 Sports",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/soccerrandom/index.html",
+      "status": "online",
+      "message": "Working - New! - Report if Problems"
+    },
+    {
+      "id": "game-1786009575871",
+      "name": "🏀 Basket Bros",
+      "category": "🏆 Sports",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/basket-bros/game.html",
+      "status": "online",
+      "message": "Working - New! - Report if problems"
+    },
+    {
+      "id": "game-1786009690194",
+      "name": "🏀 Basketball Random",
+      "category": "🏆 Sports",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/basketrandom/index.html",
+      "status": "online",
+      "message": "Working - New! - Report if problems"
     }
   ]
 }
