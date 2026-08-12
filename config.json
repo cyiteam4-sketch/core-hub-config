@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.0",
-  "publishedAt": "2026-08-06T09:50:12.009Z",
+  "publishedAt": "2026-08-12T21:10:02.840Z",
   "announcement": {
     "enabled": true,
-    "title": "[🏀⚽] Sport Update!!",
-    "message": "A sport update! with more sport games! [click update button at school and home] I saw YT??"
+    "title": "[Time Leader Board Test!!]",
+    "message": "We’re testing the first game for the future time leaderboard!"
   },
   "maintenance": {
     "enabled": false,
@@ -14,10 +14,9 @@
   "updateLog": [
     {
       "version": "2.0.0",
-      "date": "2026-08-06T09:50:11.452Z",
+      "date": "2026-08-12T21:10:02.194Z",
       "changes": [
-        "Basket Bros added - Basketball Random added - Soccer Random added",
-        "⚽🏀"
+        "Retro Bowl - has been added as a test game for the update!"
       ]
     }
   ],
@@ -317,7 +316,7 @@
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/soccerrandom/index.html",
       "status": "online",
-      "message": "Working - New! - Report if Problems"
+      "message": "Working"
     },
     {
       "id": "game-1786009575871",
@@ -325,7 +324,7 @@
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/basket-bros/game.html",
       "status": "online",
-      "message": "Working - New! - Report if problems"
+      "message": "Working"
     },
     {
       "id": "game-1786009690194",
@@ -333,7 +332,15 @@
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/basketrandom/index.html",
       "status": "online",
-      "message": "Working - New! - Report if problems"
+      "message": "Working"
+    },
+    {
+      "id": "game-1786568605216",
+      "name": "🏈 Retro Bowl [TEST]",
+      "category": "🏆 Sports",
+      "url": "https://corehub-web.web.app/selenite-main-retrobowl/",
+      "status": "testing",
+      "message": "This is a test game for the time leaderboard, so expect some bugs! Please report any issues you find. Hope you enjoy!"
     }
   ]
 }
