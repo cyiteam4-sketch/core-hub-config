@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.0",
-  "publishedAt": "2026-08-12T21:14:01.568Z",
+  "version": "2.0.1",
+  "publishedAt": "2026-08-14T22:53:10.167Z",
   "announcement": {
     "enabled": true,
-    "title": "[Time Leader Board Test!!]",
-    "message": "We’re testing the first game for the future time leaderboard!"
+    "title": "[Game Updates🎮🎯🏐!!]",
+    "message": "More and fixed games!!! Check update logs!!"
   },
   "maintenance": {
     "enabled": false,
@@ -13,10 +13,12 @@
   },
   "updateLog": [
     {
-      "version": "2.0.0",
-      "date": "2026-08-12T21:14:00.948Z",
+      "version": "2.0.1",
+      "date": "2026-08-14T22:53:09.436Z",
       "changes": [
-        "Retro Bowl - has been added as a test game for the update!"
+        "Core Hub Update 🚀",
+        "Added: Little Alchemy 2, Volleyball Random, Slope 2, Slope 3, and Tiny Fishing.",
+        "Fixed: Paper.io, BitLife, and Drive Mad."
       ]
     }
   ],
@@ -120,9 +122,9 @@
     },
     {
       "id": "drive-mad",
-      "name": "🚙 Drive Mad",
+      "name": "🚙 Drive Mad [FIXED]",
       "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/drive-mad/index.html",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/drive-mad/game/index.html",
       "status": "online",
       "message": ""
     },
@@ -160,17 +162,17 @@
     },
     {
       "id": "bitlife",
-      "name": "👶 Bitlife",
+      "name": "👶 Bitlife [FIXED]",
       "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/bitlife/index.html",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/bitlife/game/index.html",
       "status": "online",
       "message": ""
     },
     {
       "id": "paper-io",
-      "name": "🟦 Paper.io",
-      "category": "🎮 Casual",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/paperio2/index.html",
+      "name": "🐍 Paper.io [FIXED]",
+      "category": "🎯 Action",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/paperio2/game/index.html",
       "status": "online",
       "message": ""
     },
@@ -341,6 +343,46 @@
       "url": "https://corehub-web.web.app/selenite-main-retrobowl/",
       "status": "testing",
       "message": "Test game for the time leaderboard, so expect bugs!"
+    },
+    {
+      "id": "game-1786746542598",
+      "name": "🏐 Volley Random [NEW]",
+      "category": "🏆 Sports",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/volleyrandom/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1786746544880",
+      "name": "🎣 Tiny Fishing [NEW]",
+      "category": "🎯 Action",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/tiny-fishing/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1786746545747",
+      "name": "🔵 Slope 2 [NEW]",
+      "category": "🕹 Arcade",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-2/game/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1786747202083",
+      "name": "🌑 Slope 3 [NEW]",
+      "category": "🕹 Arcade",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-3/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1786747589372",
+      "name": "⌛ Little Alchemy 2 [NEW]",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/littlealchemy/looksmaxing.html#retry",
+      "status": "online",
+      "message": "May Bug - NEW!"
     }
   ]
 }
