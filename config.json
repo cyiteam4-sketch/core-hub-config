@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.1",
-  "publishedAt": "2026-08-15T05:01:02.092Z",
+  "publishedAt": "2026-08-22T23:28:14.838Z",
   "announcement": {
     "enabled": true,
-    "title": "[Game Updates🎮🎯🏐!!]",
-    "message": "More and fixed games!!! Check update logs!!"
+    "title": "Cookie Clicker Test",
+    "message": "Check Update logs! 🍪👩‍🍳"
   },
   "maintenance": {
     "enabled": false,
@@ -14,11 +14,9 @@
   "updateLog": [
     {
       "version": "2.0.1",
-      "date": "2026-08-15T05:01:01.661Z",
+      "date": "2026-08-22T23:28:14.392Z",
       "changes": [
-        "Core Hub Update 🚀",
-        "Added: Little Alchemy 2, Volleyball Random, Slope 2, Slope 3, and Tiny Fishing.",
-        "Fixed: Paper.io, BitLife, and Drive Mad."
+        "Cookie Clicker Test has been added to test the latest version you can load a save there or keep using the original."
       ]
     }
   ],
@@ -122,7 +120,7 @@
     },
     {
       "id": "drive-mad",
-      "name": "🚙 Drive Mad [FIXED]",
+      "name": "🚙 Drive Mad",
       "category": "🏁 Racing",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/drive-mad/game/index.html",
       "status": "online",
@@ -162,7 +160,7 @@
     },
     {
       "id": "bitlife",
-      "name": "👶 Bitlife [FIXED]",
+      "name": "👶 Bitlife",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/bitlife/game/index.html",
       "status": "online",
@@ -170,7 +168,7 @@
     },
     {
       "id": "paper-io",
-      "name": "🐍 Paper.io [FIXED]",
+      "name": "🐍 Paper.io",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/paperio2/game/index.html",
       "status": "online",
@@ -346,43 +344,51 @@
     },
     {
       "id": "game-1786746542598",
-      "name": "🏐 Volley Random [NEW]",
+      "name": "🏐 Volley Random",
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/volleyrandom/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1786746544880",
-      "name": "🎣 Tiny Fishing [NEW]",
+      "name": "🎣 Tiny Fishing",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/tiny-fishing/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1786746545747",
-      "name": "🔵 Slope 2 [NEW]",
+      "name": "🔵 Slope 2",
       "category": "🕹️ Arcade",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-2/game/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1786747202083",
-      "name": "🌑 Slope 3 [NEW]",
+      "name": "🌑 Slope 3",
       "category": "🕹️ Arcade",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-3/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1786747589372",
-      "name": "⌛ Little Alchemy 2 [NEW]",
+      "name": "⌛ Little Alchemy 2",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/littlealchemy/looksmaxing.html#retry",
       "status": "online",
-      "message": "May Bug - NEW!"
+      "message": "Working"
+    },
+    {
+      "id": "game-1787441011516",
+      "name": "🍪 Cookie Clicker [TEST]",
+      "category": "🔨 Testing",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
+      "status": "online",
+      "message": "This is testing. Report any issues."
     }
   ]
 }
