@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.1",
-  "publishedAt": "2026-08-25T09:52:52.435Z",
+  "publishedAt": "2026-08-25T09:53:26.392Z",
   "announcement": {
     "enabled": true,
     "title": "Cookie Clicker Test",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.1",
-      "date": "2026-08-25T09:52:51.914Z",
+      "date": "2026-08-25T09:53:25.869Z",
       "changes": [
         "Cookie Clicker Test has been added to test the latest version you can load a save there or keep using the original."
       ]
