@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.1",
-  "publishedAt": "2026-08-23T06:14:22.338Z",
+  "publishedAt": "2026-08-25T09:52:52.435Z",
   "announcement": {
     "enabled": true,
     "title": "Cookie Clicker Test",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.1",
-      "date": "2026-08-23T06:14:21.688Z",
+      "date": "2026-08-25T09:52:51.914Z",
       "changes": [
         "Cookie Clicker Test has been added to test the latest version you can load a save there or keep using the original."
       ]
@@ -397,6 +397,14 @@
       "url": "https://corehub-web.web.app/Core-Hub-Live/",
       "status": "down",
       "message": "Core Hub Main Page Games will be here as testing goes deeper! 👀"
+    },
+    {
+      "id": "game-1787651351823",
+      "name": "🚗 Crossy Bird [NEW]",
+      "category": "🎯 Action",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/CrossyRoad-remake/game/index.html",
+      "status": "online",
+      "message": "Working - New!!"
     }
   ]
 }
