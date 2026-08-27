@@ -1,20 +1,20 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.1",
-  "publishedAt": "2026-08-25T09:55:47.031Z",
+  "publishedAt": "2026-08-27T06:03:31.198Z",
   "announcement": {
     "enabled": true,
     "title": "Cookie Clicker Test",
     "message": "Check Update logs! 🍪👩‍🍳"
   },
   "maintenance": {
-    "enabled": false,
-    "message": ""
+    "enabled": true,
+    "message": "Code Ravamp - Should be done by later today."
   },
   "updateLog": [
     {
       "version": "2.0.1",
-      "date": "2026-08-25T09:55:46.518Z",
+      "date": "2026-08-27T06:03:30.602Z",
       "changes": [
         "Cookie Clicker Test has been added to test the latest version you can load a save there or keep using the original."
       ]
