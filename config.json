@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.2",
-  "publishedAt": "2026-08-30T08:30:44.225Z",
+  "publishedAt": "2026-08-30T09:32:14.303Z",
   "announcement": {
     "enabled": true,
     "title": "[NEW GAMES]",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.2",
-      "date": "2026-08-30T08:30:43.736Z",
+      "date": "2026-08-30T09:32:13.863Z",
       "changes": [
         "Core Hub Games School EXE Update",
         "New games have been added:",
@@ -407,7 +407,7 @@
     },
     {
       "id": "game-1787651351823",
-      "name": "🚕 Crossy Bird [FIXED]",
+      "name": "🚕 Crossy Road [FIXED]",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/CrossyRoad/game/index.html",
       "status": "online",
