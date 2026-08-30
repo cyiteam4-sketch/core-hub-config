@@ -1,10 +1,10 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.2",
-  "publishedAt": "2026-08-30T08:22:05.146Z",
+  "publishedAt": "2026-08-30T08:30:44.225Z",
   "announcement": {
     "enabled": true,
-    "title": "[NEW GAMES}!",
+    "title": "[NEW GAMES]",
     "message": "Check Update Logs!! 📀"
   },
   "maintenance": {
@@ -14,18 +14,16 @@
   "updateLog": [
     {
       "version": "2.0.2",
-      "date": "2026-08-30T08:22:04.600Z",
+      "date": "2026-08-30T08:30:43.736Z",
       "changes": [
-        "🚀 Core Hub Games — School EXE Update",
-        "A new update is here! 🎉",
-        "🎮 New Games Added",
-        "* 🖥️ **DVD Logo Game**",
-        "* 🐻 FNAF 1",
-        "* 🐻 FNAF 2",
-        "* 🟩 Wordle",
-        "* ➕ More new games and improvements",
-        "Thanks for using Core Hub Games! 💙",
-        "Enjoy the new games! 🎮"
+        "Core Hub Games School EXE Update",
+        "New games have been added:",
+        "DVD Logo Game",
+        "FNAF 1",
+        "FNAF 2",
+        "Wordle",
+        "More games and updates coming soon.",
+        "Thanks for using Core Hub Games!"
       ]
     }
   ],
