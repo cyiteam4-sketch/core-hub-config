@@ -1,22 +1,31 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.1",
-  "publishedAt": "2026-08-27T06:03:31.198Z",
+  "version": "2.0.2",
+  "publishedAt": "2026-08-30T08:22:05.146Z",
   "announcement": {
     "enabled": true,
-    "title": "Cookie Clicker Test",
-    "message": "Check Update logs! 🍪👩‍🍳"
+    "title": "[NEW GAMES}!",
+    "message": "Check Update Logs!! 📀"
   },
   "maintenance": {
-    "enabled": true,
-    "message": "Code Ravamp - Should be done by later today."
+    "enabled": false,
+    "message": ""
   },
   "updateLog": [
     {
-      "version": "2.0.1",
-      "date": "2026-08-27T06:03:30.602Z",
+      "version": "2.0.2",
+      "date": "2026-08-30T08:22:04.600Z",
       "changes": [
-        "Cookie Clicker Test has been added to test the latest version you can load a save there or keep using the original."
+        "🚀 Core Hub Games — School EXE Update",
+        "A new update is here! 🎉",
+        "🎮 New Games Added",
+        "* 🖥️ **DVD Logo Game**",
+        "* 🐻 FNAF 1",
+        "* 🐻 FNAF 2",
+        "* 🟩 Wordle",
+        "* ➕ More new games and improvements",
+        "Thanks for using Core Hub Games! 💙",
+        "Enjoy the new games! 🎮"
       ]
     }
   ],
@@ -400,11 +409,51 @@
     },
     {
       "id": "game-1787651351823",
-      "name": "🐦 Crossy Bird [NEW]",
+      "name": "🚕 Crossy Bird [FIXED]",
       "category": "🎯 Action",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/CrossyRoad-remake/game/index.html",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/CrossyRoad/game/index.html",
       "status": "online",
-      "message": "Working - New!!"
+      "message": "Working"
+    },
+    {
+      "id": "game-1788073044986",
+      "name": "📚 Core Hub Rules",
+      "category": "📚 Rules",
+      "url": "https://corehub-web.web.app/AppRule/index.html",
+      "status": "online",
+      "message": "Core Hub Rules! [School EXE]"
+    },
+    {
+      "id": "game-1788073890728",
+      "name": "🔠 Wordle+ [NEW]",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/wordle/index.html#daily",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1788077644903",
+      "name": "🤖 FNAF 2 [NEW]",
+      "category": "👻 Horror",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/fnaf-2/game/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1788077776509",
+      "name": "🤖 FNAF 1 [NEW]",
+      "category": "👻 Horror",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/fnaf/game/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1788077931984",
+      "name": "📀 DVD Logo [NEW]",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/dvdlogo/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
     }
   ]
 }
