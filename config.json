@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.2",
-  "publishedAt": "2026-08-30T09:32:14.303Z",
+  "publishedAt": "2026-09-12T08:40:27.644Z",
   "announcement": {
     "enabled": true,
-    "title": "[NEW GAMES]",
-    "message": "Check Update Logs!! 📀"
+    "title": "[🍪Cookie Clicker News!}",
+    "message": "Check Update Logs!! 🍪"
   },
   "maintenance": {
     "enabled": false,
@@ -14,16 +14,9 @@
   "updateLog": [
     {
       "version": "2.0.2",
-      "date": "2026-08-30T09:32:13.863Z",
+      "date": "2026-09-12T08:40:27.009Z",
       "changes": [
-        "Core Hub Games School EXE Update",
-        "New games have been added:",
-        "DVD Logo Game",
-        "FNAF 1",
-        "FNAF 2",
-        "Wordle",
-        "More games and updates coming soon.",
-        "Thanks for using Core Hub Games!"
+        "The latest version of cookie clicker will be downloadable when I build the link."
       ]
     }
   ],
@@ -81,8 +74,8 @@
       "name": "🧩 Block Blast",
       "category": "🎮 Puzzle",
       "url": "https://coolgamesonline.io/game/block-blast/",
-      "status": "down",
-      "message": ""
+      "status": "online",
+      "message": "Works on IDET better."
     },
     {
       "id": "eaglercraft",
@@ -407,7 +400,7 @@
     },
     {
       "id": "game-1787651351823",
-      "name": "🚕 Crossy Road [FIXED]",
+      "name": "🚕 Crossy Road",
       "category": "🎯 Action",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/CrossyRoad/game/index.html",
       "status": "online",
@@ -423,35 +416,35 @@
     },
     {
       "id": "game-1788073890728",
-      "name": "🔠 Wordle+ [NEW]",
+      "name": "🔠 Wordle+",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/wordle/index.html#daily",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1788077644903",
-      "name": "🤖 FNAF 2 [NEW]",
+      "name": "🤖 FNAF 2",
       "category": "👻 Horror",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/fnaf-2/game/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1788077776509",
-      "name": "🤖 FNAF 1 [NEW]",
+      "name": "🤖 FNAF 1",
       "category": "👻 Horror",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/fnaf/game/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1788077931984",
-      "name": "📀 DVD Logo [NEW]",
+      "name": "📀 DVD Logo",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/dvdlogo/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     }
   ]
 }
