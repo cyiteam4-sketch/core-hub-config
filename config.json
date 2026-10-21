@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.2",
-  "publishedAt": "2026-09-12T08:40:27.644Z",
+  "version": "2.0.3",
+  "publishedAt": "2026-10-21T06:27:52.590Z",
   "announcement": {
     "enabled": true,
-    "title": "[🍪Cookie Clicker News!}",
-    "message": "Check Update Logs!! 🍪"
+    "title": "🎃🎃🎃HALLOWEEN UPDATE!!🕸🕸🕸",
+    "message": "WE GOT SPOOKY MONTH!! CHECK UPDATE LOGS🎃⛽"
   },
   "maintenance": {
     "enabled": false,
@@ -13,10 +13,25 @@
   },
   "updateLog": [
     {
-      "version": "2.0.2",
-      "date": "2026-09-12T08:40:27.009Z",
+      "version": "2.0.3",
+      "date": "2026-10-21T06:27:52.181Z",
       "changes": [
-        "The latest version of cookie clicker will be downloadable when I build the link."
+        "# CORE HUB GAMES — HALLOWEEN UPDATE 🎃",
+        "The Halloween update is here! We've fixed an existing game issue and added a fresh batch of games to the library.",
+        "### FIXES",
+        "- **Moto X3M:** Fixed and working again!",
+        "### NEW GAMES ADDED",
+        "- SCP: Containment Breach",
+        "- Chess",
+        "- Boxing Random",
+        "- Solitaire",
+        "- Duck Life 1",
+        "- Duck Life 2",
+        "- Storm the House 2",
+        "- Idle Breakout",
+        "### MORE TO COME",
+        "Jump in, check out the new additions, and enjoy the Halloween season with Core Hub Games. More games and updates are on the way!",
+        "Core Hub Games — Hassle-free browser games, unblocked."
       ]
     }
   ],
@@ -47,11 +62,11 @@
     },
     {
       "id": "moto-x3m",
-      "name": "🏍️ Moto X3M",
+      "name": "🏍️ Moto X3M [FIXED]",
       "category": "🏁 Racing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/motox3m/index.html",
+      "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/gm/moto-x3m/index.html",
       "status": "online",
-      "message": ""
+      "message": "Working! please report any issues!"
     },
     {
       "id": "poly-track",
@@ -112,11 +127,11 @@
     },
     {
       "id": "retro-bowl",
-      "name": "🏈 Retro Bowl  [👑]",
+      "name": "🏈 Retro Bowl",
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/retro-bowl/index.html",
       "status": "online",
-      "message": "Working! - Another Top game!!"
+      "message": "Working!"
     },
     {
       "id": "drive-mad",
@@ -136,11 +151,11 @@
     },
     {
       "id": "cookie-clicker",
-      "name": "🍪 Cookie Clicker [🎁]",
+      "name": "🍪 Cookie Clicker",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/game/index.html",
       "status": "online",
-      "message": "Working - Most Played Game!!"
+      "message": "Working"
     },
     {
       "id": "slope",
@@ -196,7 +211,7 @@
       "category": "🧱 Sandbox",
       "url": "https://sandspiel.club/",
       "status": "online",
-      "message": "Should we remove this game?"
+      "message": "Working"
     },
     {
       "id": "game-1780350201054",
@@ -209,7 +224,7 @@
     {
       "id": "game-1780566125783",
       "name": "🃏 Balatro",
-      "category": "🎯 Action",
+      "category": "🃏 Cards",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/balatro/index.html",
       "status": "online",
       "message": "Working"
@@ -372,7 +387,7 @@
       "category": "🕹️ Arcade",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/slope-3/index.html",
       "status": "online",
-      "message": "Working"
+      "message": "Working / Use EQNET"
     },
     {
       "id": "game-1786747589372",
@@ -445,6 +460,70 @@
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/dvdlogo/index.html",
       "status": "online",
       "message": "Working"
+    },
+    {
+      "id": "game-1792562122987",
+      "name": "🤔 Idle Breakout [NEW!]",
+      "category": "🎮 Casual",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/idle-breakout/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1792562334418",
+      "name": "🦆 Duck Life 2 [NEW!]",
+      "category": "🎯 Action",
+      "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/wix/duck-life-2/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1792562334849",
+      "name": "🦆 Duck Life 1 [NEW!]",
+      "category": "🎯 Action",
+      "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/wix/duck-life/index.html",
+      "status": "online",
+      "message": "Working - NEW!!"
+    },
+    {
+      "id": "game-1792562754486",
+      "name": "🃏 Solitaire [NEW!]",
+      "category": "🃏 Cards",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/solitaire/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1792563353463",
+      "name": "♟ Chess [NEW!]",
+      "category": "🤔 Strategy",
+      "url": "https://dnrweqffuwjtx.cloudfront.net/games/2025/unity3/chess/index.html",
+      "status": "online",
+      "message": "Working - New!"
+    },
+    {
+      "id": "game-1792563355010",
+      "name": "🔫 Storm The House 2 [NEW!]",
+      "category": "🔫 FPS",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/stormthehouse2/index.html",
+      "status": "online",
+      "message": "Working - NEW!"
+    },
+    {
+      "id": "game-1792563355611",
+      "name": "👁 SCP Containment Breach [NEW!]",
+      "category": "👻 Horror",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/scp-containment-breach/index.html",
+      "status": "testing",
+      "message": "In testing report issues!"
+    },
+    {
+      "id": "game-1792563698912",
+      "name": "🥊 Boxing Random [NEW!]",
+      "category": "🏆 Sports",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/boxingrandom/index.html",
+      "status": "online",
+      "message": "Working! - NEW!"
     }
   ]
 }
