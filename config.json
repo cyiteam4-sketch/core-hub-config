@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.3",
-  "publishedAt": "2026-10-24T08:13:50.575Z",
+  "publishedAt": "2026-10-24T08:26:41.043Z",
   "announcement": {
     "enabled": true,
     "title": "🎃🎃🎃HALLOWEEN UPDATE!!🕸🕸🕸",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.3",
-      "date": "2026-10-24T08:13:50.156Z",
+      "date": "2026-10-24T08:26:40.586Z",
       "changes": [
         "# CORE HUB GAMES — HALLOWEEN UPDATE 🎃",
         "The Halloween update is here! We've fixed an existing game issue and added a fresh batch of games to the library.",
@@ -530,7 +530,7 @@
       "name": "🏫 Riddle School [TESTING]",
       "category": "🔨 Testing",
       "url": "https://corehubgames-riddleschool.surge.sh/",
-      "status": "testing",
+      "status": "down",
       "message": "[TESTING]"
     }
   ]
