@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.3",
-  "publishedAt": "2026-10-27T09:31:38.285Z",
+  "publishedAt": "2026-10-27T09:34:09.714Z",
   "announcement": {
     "enabled": true,
     "title": "🎃🎃🎃HALLOWEEN UPDATE!!🕸🕸🕸",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.3",
-      "date": "2026-10-27T09:31:37.888Z",
+      "date": "2026-10-27T09:34:09.228Z",
       "changes": [
         "# CORE HUB GAMES — HALLOWEEN UPDATE 🎃",
         "The Halloween update is here! We've fixed an existing game issue and added a fresh batch of games to the library.",
