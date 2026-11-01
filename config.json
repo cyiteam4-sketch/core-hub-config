@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.3",
-  "publishedAt": "2026-10-28T21:45:29.372Z",
+  "version": "2.0.4",
+  "publishedAt": "2026-11-01T10:13:08.099Z",
   "announcement": {
     "enabled": true,
-    "title": "🎃🎃🎃HALLOWEEN UPDATE!!🕸🕸🕸",
-    "message": "WE GOT SPOOKY MONTH!! CHECK UPDATE LOGS🎃⛽"
+    "title": "NEW MONTH UPDATE",
+    "message": "Small update for the upcoming big one."
   },
   "maintenance": {
     "enabled": false,
@@ -13,25 +13,10 @@
   },
   "updateLog": [
     {
-      "version": "2.0.3",
-      "date": "2026-10-28T21:45:28.957Z",
+      "version": "2.0.4",
+      "date": "2026-11-01T10:13:07.611Z",
       "changes": [
-        "# CORE HUB GAMES — HALLOWEEN UPDATE 🎃",
-        "The Halloween update is here! We've fixed an existing game issue and added a fresh batch of games to the library.",
-        "### FIXES",
-        "- **Moto X3M:** Fixed and working again!",
-        "### NEW GAMES ADDED",
-        "- SCP: Containment Breach",
-        "- Chess",
-        "- Boxing Random",
-        "- Solitaire",
-        "- Duck Life 1",
-        "- Duck Life 2",
-        "- Storm the House 2",
-        "- Idle Breakout",
-        "### MORE TO COME",
-        "Jump in, check out the new additions, and enjoy the Halloween season with Core Hub Games. More games and updates are on the way!",
-        "Core Hub Games — Hassle-free browser games, unblocked."
+        "Big update next update! for now ive added Territorial.io enjoy!"
       ]
     }
   ],
@@ -351,11 +336,11 @@
     },
     {
       "id": "game-1786568605216",
-      "name": "🏈 Retro Bowl [TESTING]",
+      "name": "🏈 Retro Bowl [BEEN WORKED ON]",
       "category": "🔨 Testing",
       "url": "https://corehubgames-retrobowl.surge.sh/",
       "status": "testing",
-      "message": "Testing! report any issues"
+      "message": "Game may be unstable while i work on scripts."
     },
     {
       "id": "game-1786746542598",
@@ -399,11 +384,11 @@
     },
     {
       "id": "game-1787441011516",
-      "name": "🍪 Cookie Clicker [TEST]",
+      "name": "🍪 Cookie Clicker [NEXT UPDATE!!]",
       "category": "🔨 Testing",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
-      "status": "online",
-      "message": "This is testing. Report any issues."
+      "status": "down",
+      "message": "Expected to release next update."
     },
     {
       "id": "game-1787465515581",
@@ -463,75 +448,83 @@
     },
     {
       "id": "game-1792562122987",
-      "name": "🤔 Idle Breakout [NEW!]",
+      "name": "🤔 Idle Breakout",
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/idle-breakout/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1792562334418",
-      "name": "🦆 Duck Life 2 [NEW!]",
+      "name": "🦆 Duck Life 2",
       "category": "🎯 Action",
       "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/wix/duck-life-2/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1792562334849",
-      "name": "🦆 Duck Life 1 [NEW!]",
+      "name": "🦆 Duck Life 1",
       "category": "🎯 Action",
       "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/wix/duck-life/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1792562754486",
-      "name": "🃏 Solitaire [NEW!]",
+      "name": "🃏 Solitaire",
       "category": "🃏 Cards",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/solitaire/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1792563353463",
-      "name": "♟ Chess [NEW!]",
+      "name": "♟ Chess",
       "category": "🤔 Strategy",
       "url": "https://dnrweqffuwjtx.cloudfront.net/games/2025/unity3/chess/index.html",
       "status": "online",
-      "message": "Working - New!"
+      "message": "Working"
     },
     {
       "id": "game-1792563355010",
-      "name": "🔫 Storm The House 2 [NEW!]",
+      "name": "🔫 Storm The House 2",
       "category": "🔫 FPS",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/projects/stormthehouse2/index.html",
       "status": "online",
-      "message": "Working - NEW!"
+      "message": "Working"
     },
     {
       "id": "game-1792563355611",
-      "name": "👁 SCP Containment Breach [NEW!]",
+      "name": "👁 SCP Containment Breach",
       "category": "👻 Horror",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/scp-containment-breach/index.html",
-      "status": "testing",
-      "message": "In testing report issues!"
+      "status": "online",
+      "message": "Working"
     },
     {
       "id": "game-1792563698912",
-      "name": "🥊 Boxing Random [NEW!]",
+      "name": "🥊 Boxing Random",
       "category": "🏆 Sports",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/boxingrandom/index.html",
       "status": "online",
-      "message": "Working! - NEW!"
+      "message": "Working!"
     },
     {
       "id": "game-1792829486458",
-      "name": "🏫 Riddle School [TESTING]",
+      "name": "🏫 Riddle School [NEXT UPDATE]",
       "category": "🔨 Testing",
       "url": "https://corehubgames-riddleschool.surge.sh/",
+      "status": "down",
+      "message": "Expected to release next update."
+    },
+    {
+      "id": "game-1793527339313",
+      "name": "📍 Territorial.io [NEW!]",
+      "category": "🤔 Strategy",
+      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/territorialio/build/index.html",
       "status": "online",
-      "message": "[TESTING]"
+      "message": "Working - NEW!!"
     }
   ]
 }
