@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.4",
-  "publishedAt": "2026-11-04T08:52:08.286Z",
+  "publishedAt": "2026-11-05T07:00:56.205Z",
   "announcement": {
     "enabled": true,
     "title": "NEW MONTH UPDATE",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.4",
-      "date": "2026-11-04T08:52:07.831Z",
+      "date": "2026-11-05T07:00:55.813Z",
       "changes": [
         "Big update next update! for now ive added Territorial.io enjoy!"
       ]
@@ -386,8 +386,8 @@
       "id": "game-1787441011516",
       "name": "🍪 Cookie Clicker [NEXT UPDATE!!]",
       "category": "🔨 Testing",
-      "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/index.html",
-      "status": "down",
+      "url": "https://corehubgames-cookieclicker2.surge.sh/",
+      "status": "online",
       "message": "Expected to release next update."
     },
     {
