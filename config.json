@@ -1,7 +1,7 @@
 {
   "appName": "Core Hub Games",
   "version": "2.0.5",
-  "publishedAt": "2026-11-05T07:20:24.396Z",
+  "publishedAt": "2026-11-05T07:26:04.363Z",
   "announcement": {
     "enabled": true,
     "title": "W UPDATE! 🏫🍪🏈😁",
@@ -14,7 +14,7 @@
   "updateLog": [
     {
       "version": "2.0.5",
-      "date": "2026-11-05T07:20:23.933Z",
+      "date": "2026-11-05T07:26:03.947Z",
       "changes": [
         "CORE HUB GAMES — UPDATE",
         "New games and updates are now available!",
@@ -532,7 +532,7 @@
     {
       "id": "game-1793782305949",
       "name": "🏈 Retro Bowl {NEW! / report issues!]",
-      "category": "🏆 Sport",
+      "category": "🏆 Sports",
       "url": "https://corehubgames-retrobowl.surge.sh/",
       "status": "online",
       "message": "Working! - report issues."
