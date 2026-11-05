@@ -1,11 +1,11 @@
 {
   "appName": "Core Hub Games",
-  "version": "2.0.4",
-  "publishedAt": "2026-11-05T07:00:56.205Z",
+  "version": "2.0.5",
+  "publishedAt": "2026-11-05T07:20:24.396Z",
   "announcement": {
     "enabled": true,
-    "title": "NEW MONTH UPDATE",
-    "message": "Small update for the upcoming big one."
+    "title": "W UPDATE! 🏫🍪🏈😁",
+    "message": "BIG UPDATE CHECK LOGS HAPPY WHEELS COOKIE CLICKER MOREEEE"
   },
   "maintenance": {
     "enabled": false,
@@ -13,10 +13,21 @@
   },
   "updateLog": [
     {
-      "version": "2.0.4",
-      "date": "2026-11-05T07:00:55.813Z",
+      "version": "2.0.5",
+      "date": "2026-11-05T07:20:23.933Z",
       "changes": [
-        "Big update next update! for now ive added Territorial.io enjoy!"
+        "CORE HUB GAMES — UPDATE",
+        "New games and updates are now available!",
+        "New games added:",
+        "- Riddle School 1",
+        "- Happy Wheels",
+        "Game updates:",
+        "- Cookie Clicker has been updated to the latest version!",
+        "- Retro Bowl has finally received its update!",
+        "We know the Retro Bowl update has been suggested for a while, so thanks for your patience!",
+        "Jump in and check out what's new!",
+        "CORE HUB GAMES",
+        "Hassle-free browser games, all in one place."
       ]
     }
   ],
@@ -47,11 +58,11 @@
     },
     {
       "id": "moto-x3m",
-      "name": "🏍️ Moto X3M [FIXED]",
+      "name": "🏍️ Moto X3M",
       "category": "🏁 Racing",
       "url": "https://dnrweqffuwjtx.cloudfront.net/games/2024/gm/moto-x3m/index.html",
       "status": "online",
-      "message": "Working! please report any issues!"
+      "message": "Working!"
     },
     {
       "id": "poly-track",
@@ -140,7 +151,7 @@
       "category": "🎮 Casual",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/cookieclicker/game/index.html",
       "status": "online",
-      "message": "Working"
+      "message": "Working keeping for a week u can backup save."
     },
     {
       "id": "slope",
@@ -335,14 +346,6 @@
       "message": "Working"
     },
     {
-      "id": "game-1786568605216",
-      "name": "🏈 Retro Bowl [BEEN WORKED ON]",
-      "category": "🔨 Testing",
-      "url": "https://corehubgames-retrobowl.surge.sh/",
-      "status": "testing",
-      "message": "Game may be unstable while i work on scripts."
-    },
-    {
       "id": "game-1786746542598",
       "name": "🏐 Volley Random",
       "category": "🏆 Sports",
@@ -384,11 +387,11 @@
     },
     {
       "id": "game-1787441011516",
-      "name": "🍪 Cookie Clicker [NEXT UPDATE!!]",
-      "category": "🔨 Testing",
+      "name": "🍪 Cookie Clicker [UPDATED 2058!]",
+      "category": "🎮 Casual",
       "url": "https://corehubgames-cookieclicker2.surge.sh/",
       "status": "online",
-      "message": "Expected to release next update."
+      "message": "ITS OUT!! [report issues]"
     },
     {
       "id": "game-1787465515581",
@@ -512,27 +515,35 @@
     },
     {
       "id": "game-1792829486458",
-      "name": "🏫 Riddle School [NEXT UPDATE]",
-      "category": "🔨 Testing",
+      "name": "🏫 Riddle School 1 [NEW!]",
+      "category": "🎮 Casual",
       "url": "https://corehubgames-riddleschool.surge.sh/",
-      "status": "down",
-      "message": "Expected to release next update."
+      "status": "online",
+      "message": "HERE IT IS! [report issues]"
     },
     {
       "id": "game-1793527339313",
-      "name": "📍 Territorial.io [NEW!]",
+      "name": "📍 Territorial.io",
       "category": "🤔 Strategy",
       "url": "https://d3rtzzzsiu7gdr.cloudfront.net/files/territorialio/build/index.html",
       "status": "online",
-      "message": "Working - NEW!!"
+      "message": "Working"
     },
     {
       "id": "game-1793782305949",
-      "name": "Test",
-      "category": "Other",
+      "name": "🏈 Retro Bowl {NEW! / report issues!]",
+      "category": "🏆 Sport",
       "url": "https://corehubgames-retrobowl.surge.sh/",
-      "status": "testing",
-      "message": "Test"
+      "status": "online",
+      "message": "Working! - report issues."
+    },
+    {
+      "id": "game-1793863126314",
+      "name": "🚲 Happy Wheels [NEW!!]",
+      "category": "🎮 Casual",
+      "url": "https://corehubgames-happywheels.surge.sh/",
+      "status": "online",
+      "message": "Working! - NEW!!"
     }
   ]
 }
